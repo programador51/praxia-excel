@@ -1,0 +1,16 @@
+UENID,description,family,subfamily,SATCode,SATUM,iva,marginRate,excent,createdBy,createdDate,lastUpdatedBy,lastUpdatedDate,satCodeDescription,satUmDescription,status
+1,Microsoft CSP,Microsoft,CSP,43231513,E48,16,20,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+2,Microsoft Azure,Microsoft,Azure,43232701,E48,16,20,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+3,Microsoft School,Microsoft,School,43231513,E48,16,17,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+4,Microsoft OVS,Microsoft,OVS,43231513,E48,16,17,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+5,Microsoft Otro,Microsoft,Otro,43231513,E48,16,17,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+6,Adobe Licencias,Adobe,Licencias,43232100,E48,16,16,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+7,Adobe ETLA,Adobe,ETLA,43232100,E48,16,10,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+8,Autodesk Licencias,Autodesk,Licencias,43232604,E48,16,2,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+9,Netsupport Licencias,Netsupport,Licencias,43231500,E48,16,20,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+10,Seguridad Licencias,Seguridad,Licencias,43233200,E48,16,10,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+11,Desarrollo Sistema,Desarrollo,Sistema,81141902,E48,16,30,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+12,Soporte,Soporte,,81111800,E48,16,30,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+13,Praxia Sistema,Praxia,Sistema,43233700,E48,16,30,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+14,Praxia Otros,Praxia,Otros,43232701,E48,16,30,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
+15,Otros,Otros,,43231513,E48,16,15,0,José Luis Pérez Olguín,2022-10-12,José Luis Pérez Olguín,2022-10-12,No disponible,No disponible,1
