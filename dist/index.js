@@ -5,3 +5,5 @@ require("./catalogo");
 require("./UEN");
 
 require("./Conceptos");
+
+require("./Gastos");
